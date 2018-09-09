@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongoose": "^5.2.13",
+    "telegraf": "^3.23.0"
+  }
+}
